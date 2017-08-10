@@ -20,7 +20,7 @@
     "Demo",
     "Bluemix"
   ],
-  "author": "Bob Dill, IBM Distinguished Engineer",
+  "author": "Prithvi Rao Executive Architect",
   "license": "Apache-2.0",
   "dependencies": {
     "body-parser": "^1.15.0",
