@@ -7,6 +7,6 @@ applications:
   host: Z2C
   disk_quota: 1024M
   services:
-    - Speech to Text-xx
-    - Text to Speech-xx
-    - Natural Language Classifier-xx
+    - Speech to Text-pr
+    - Text to Speech-pr
+    - Natural Language Classifier-pr
